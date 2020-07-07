@@ -1,0 +1,1 @@
+grep -i test test_file.txt to search word test (insensitive) in the test_file.txt
